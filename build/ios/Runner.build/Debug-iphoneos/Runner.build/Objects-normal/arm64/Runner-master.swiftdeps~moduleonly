@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "8dcac68f97e3dbea1e2c18c6a0fd32a1"
+build_time: [1595247953, 693985000]
+inputs:
+  "/Users/admin/Desktop/Akshay/barcode_scanner-master/ios/Runner/AppDelegate.swift": [1587328616, 0]
